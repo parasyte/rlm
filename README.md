@@ -1,7 +1,7 @@
 # RLM (Recover Lunar Magic)
 
 Copyright 2003-2009 Parasyte (parasyte@kodewerx.org)
-https://www.kodewerx.org/
+* https://www.kodewerx.org/
 
 ## What's New?
 
@@ -72,7 +72,9 @@ The first number (`0x0105`) is the stage number, as shown by Lunar magic. Not al
 
 Additional numbers printed are encryption seeds (the numbers used in the simple XOR-based encryption) and decryption counters. An example of a counter:
 
+```
 192 stages decrypted
+```
 
 ## Honorable Mentions
 
